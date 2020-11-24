@@ -142,9 +142,7 @@
 | [Adobe Trends](https://color.adobe.com/trends)| Discover current color trends in different industries from the creative communities on Behance and Adobe Stock|
 | [Color Hunt](https://colorhunt.co/)| A free and open platform for color inspiration with thousands of trendy hand-picked color palettes |
 | [Gradient Hunt](https://gradienthunt.com/)| A free and open platform for gradient inspiration with thousands of trendy hand-picked color gradients |
-| [Web Gradients](https://webgradients.com/)| ```diff
-+A free website to find good CSS gradients 
-``` |
+| [Web Gradients](https://webgradients.com/)| A free website to find good CSS gradients |
 | [ColorBox](https://www.colorbox.io)| A free website to produce color set |
 | [CSS gradient](https://cssgradient.io/)| A free website to make custom gradient and some examples of gradient |
 | [gradienta](https://gradienta.io/)| A pure css and jpg gradients |
